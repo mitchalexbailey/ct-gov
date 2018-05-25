@@ -1,5 +1,5 @@
 # ct-gov
-Grab clinical trials associated with list of conditions.
+Purpose: Facilitate accessibility of data related to clinical trials available on ClinicalTrials.gov in an automated fashion. Framework can be tailored to specific use case.
 
 Data source: ClinicalTrials.gov
 All information returned is attributable to the clinicaltrials.gov website.
